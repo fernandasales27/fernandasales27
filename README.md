@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&animation=twinkling&section=header&text=Bem-%20Vindo&fontColor=#fff&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&animation=twinkling&section=header&text=Bem-Vindo&fontColor=#fff&fontAlignY=35"/>
  
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=17C2DA&center=true&vCenter=true&width=1000&lines=Oi,+meu+nome+é+Fernanda+Sales+!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=17C2DA&center=true&vCenter=true&width=1000&lines=Oi,+meu+nome+é+Fernanda+Sales!;)](https://git.io/typing-svg)
  
 <div align="center">
   <a href="https://github.com/fernandasales27">
